@@ -1,0 +1,10 @@
+LENGUAJE COMPILADO
+	Es aquel lenguaje de programación que lleva a cabo el proceso de traducir el código a lenguaje de máquina (binario) haciendo uso de un compilador. 
+	
+	Como el lenguaje compilado requiere de un compilador para funcionar, es interesante saber los pasos que lleva a cabo este para lograr construir un 
+	código que la máquina pueda entender.
+
+LENGUAJE INTERPRETADO
+	Es aquel que hace uso de un programa llamado intérprete para traducir el código que has escrito al lenguaje que la máquina pueda entender y ejecutar.
+	siendo un código fuente que se ejecuta directamente, instrucción a instrucción, es decir, el código no pasa por un proceso de compilación, sino que 
+	el programa llamado intérprete lee la instrucción en tiempo real, y la ejecuta.
