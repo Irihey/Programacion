@@ -1,0 +1,25 @@
+TAREA #2. MUTABILIDAD
+	- Mutables: Si permiten ser modificados una vez creados. Son mutables los siguientes tipos:
+		* Listas.
+		* Bytearray.
+		* Memoryview.
+		* Diccionarios.
+		* Sets.
+		* Clases definidas por el usuario.
+
+	- Inmutables: Si no permiten ser modificados una vez creados. Y son:
+		* Booleanos.
+		* Complejos.
+		* Enteros.
+		* Float.
+		* Frozenset.
+		* Cadenas.
+		* Tuplas.
+		* Range.
+		* Bytes.
+	
+	Las principales diferencias entre tipos mutables e inmutables son las siguientes:
+		* Los tipos inmutables son generalmente más rápidos de acceder. Por lo que si no piensas modificar una lista, es mejor que uses una tupla.
+		* Los tipos mutables son perfectos cuando quieres cambiar su contenido repetidas veces.
+		* Los tipos inmutables son caros de cambiar, ya que lo que se hace en realidad es hacer una copia de su contenido en un nuevo objeto con las 
+		modificaciones.
