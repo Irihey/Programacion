@@ -1,0 +1,15 @@
+TIPO DE DATO (CLASE) BOOL
+	Es un tipo de dato que permite almacenar dos valores True o False.
+	
+	Un valor booleano también puede ser el resultado de evaluar una expresión. Ciertos operadores como el mayor que, menor que o igual que 
+  devuelven un valor bool.
+
+	Es importante notar que aunque estemos listando el tipo bool como si fuese un tipo más, es en realidad una subclase del int.
+
+OPERADOR IGUALDAD
+	El operador = prácticamente no necesita explicación, simplemente asigna a la variable de la izquierda el contenido que le ponemos a la 
+  derecha.
+	
+FUNCIÓN INPUT
+	Esta función input( ) sirve para posibilitar la entrada por texto por parte del usuario del programa, es decir, Python lee e imprime o 
+  ejecuta el texto que se le otorge en la función de input().
