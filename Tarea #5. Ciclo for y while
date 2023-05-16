@@ -1,0 +1,25 @@
+CICLO FOR
+
+Se entiende este ciclo como el encargado de recorrer una secuencia buscando esos elementos que cumplen condeterminada condición y 
+realizando alguna instrucciòn según sea especificada. Recalcando que dichos elementos deben ser ITERABLES es decir recorribles.
+
+SINTAXIS
+
+for variable in elemento_iterable:
+ condiciones
+
+Los usos del ciclo for
+
+	- Para iterar listas.
+	- Para iterar diccionarios.
+	- Para iterar cadenas.
+
+CICLO WHILE
+
+Este permite ejecutar un bloque de còdigo continuamente mientras la condición sea verdadera e incluso podemos crear bucles infinitos.
+
+SINTAXIS
+
+while (condición):
+ condiciones o cuerpo de repetición
+
