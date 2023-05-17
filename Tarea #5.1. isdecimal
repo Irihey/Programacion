@@ -1,0 +1,10 @@
+.ISDECIMAL
+
+  El método .isdecimal() en Python es una función que se utiliza para verificar si todos los caracteres en una cadena son decimales. 
+  Devuelve True si todos los caracteres son decimales y False si no lo son. Este método solo está presente en objetos Unicode.
+ 
+ OBJETO UNICODE
+ 
+ Es un estándar de codificación de caracteres que permite representar caracteres de todos los idiomas del mundo. Unicode es compatible con 
+ la mayoría de los sistemas de escritura y se utiliza para representar texto en Python. En Python 3, todas las cadenas se representan como 
+ Unicode. Esto significa que todas las cadenas en Python 3 son secuencias de caracteres Unicode.
