@@ -1,0 +1,10 @@
+Los operadores usados en el código que no han sido explicados en clase y fueron utilizados en la práctica
+
+"." lo utilice en el código para poder verifica si los valores ingresados por el usuario fueran un float, conteniendo el punto decimal.
+
+El operador "in" se utiliza para verificar si un carácter o una cadena de texto se encuentra en otra cadena de texto, para este caso, 
+si el carácter “.” se encuentra en las cadenas ingrsada por el usuario.
+
+El operador "and" en python usado para casos en los que se necesita realizar una acción o condición a una variable, siempre y cuando se 
+cumplan ambas, lo que hace este operador es devolver "verdadero" (True) el valor si este cumple con la condición establecida en el código, 
+o falsa si no cumple dicha condición, las dos se deben cumpliar, si no se lanza un error. 
