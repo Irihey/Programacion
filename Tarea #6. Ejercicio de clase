@@ -1,0 +1,18 @@
+intentos = 5
+numero_1 = 0
+numero_2 = 0
+
+while intentos > 0:
+    numero_1 = input("Introduzca el primer número: ")
+    numero_2 = input("Introduzca el segundo número: ")
+
+    if not numero_1.isdigit() or not numero_2.isdigit():
+        print("Debe introducir números enteros.")
+        intentos -= 1
+    else:
+        break
+
+if intentos == 0:
+    raise ValueError("Ha excedido el número máximo de intentos.")
+
+print(f"Los números introducidos son {numero_1} y {numero_2}.")
